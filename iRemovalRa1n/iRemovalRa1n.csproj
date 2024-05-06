@@ -37,10 +37,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="iMobileDevice-net">
-      <HintPath>..\..\dec\New folder (6)\ira1n\iMobileDevice-net.dll</HintPath>
+      <HintPath>iMobileDevice-net.dll</HintPath>
     </Reference>
     <Reference Include="LibMobileDevice">
-      <HintPath>..\..\dec\New folder (6)\ira1n\LibMobileDevice.dll</HintPath>
+      <HintPath>LibMobileDevice.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <HintPath>..\..\dnspy\bin\System.dll</HintPath>
