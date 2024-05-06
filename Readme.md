@@ -1,5 +1,6 @@
 ## Deobfuscated version of malra1n
 
+# Support will not be given to build.
 
 (Checkra1n windows imitations that contain heuristic malware)
 
