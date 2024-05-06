@@ -21,7 +21,8 @@ Tools used:
 
 Inside the .dll file, if you use DnSPY to check it out, you will find a checkra1n based payload that could easily have been tampered with:
 
-<insert image once pushed>
+<img width="138" alt="image" src="https://github.com/wynwxst/malra1n/assets/57133270/1744e709-d166-4994-bc3a-1235cc51eba8">
+
 
 Finally, 
 
